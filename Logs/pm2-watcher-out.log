@@ -1,0 +1,14 @@
+2026-03-29 13:16:06: 
+2026-03-29 13:16:06: ╭─────────────────────────────────────────────────────────╮
+2026-03-29 13:16:06: │                                                         │
+2026-03-29 13:16:06: │  AI EMPLOYEE — INBOX WATCHER                            │
+2026-03-29 13:16:06: │  Perception Layer v0.1  •  Local-First  •  Autonomous   │
+2026-03-29 13:16:06: │                                                         │
+2026-03-29 13:16:06: │  Monitoring: /mnt/c/h-0/bronze-and-silver/Inbox         │
+2026-03-29 13:16:06: │  Output:     /mnt/c/h-0/bronze-and-silver/Needs_Action  │
+2026-03-29 13:16:06: │  Logs:       /mnt/c/h-0/bronze-and-silver/Logs          │
+2026-03-29 13:16:06: │                                                         │
+2026-03-29 13:16:06: ╰─────────────────────────────────────────────────────────╯
+2026-03-29 13:16:06: 
+2026-03-29 13:16:06: [13:16:06] INFO     Watcher started — monitoring                                
+2026-03-29 13:16:06:                     /mnt/c/h-0/bronze-and-silver/Inbox                          

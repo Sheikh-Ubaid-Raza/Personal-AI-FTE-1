@@ -1,0 +1,6 @@
+2026/03/01-11:10:40.073 1d0b Reusing MANIFEST /mnt/c/h-0/Ai_employee_vault_bronze/.linkedin_session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/03/01-11:10:40.118 1d0b Recovering log #3
+2026/03/01-11:10:40.134 1d0b Reusing old log /mnt/c/h-0/Ai_employee_vault_bronze/.linkedin_session/Default/Local Storage/leveldb/000003.log 
+2026/03/01-11:11:40.156 1d14 Level-0 table #5: started
+2026/03/01-11:11:40.177 1d14 Level-0 table #5: 35557 bytes OK
+2026/03/01-11:11:40.206 1d14 Delete type=0 #3

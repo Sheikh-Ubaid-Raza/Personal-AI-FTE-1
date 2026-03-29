@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "gmail": {
+      "command": "python3",
+      "args": ["mcp_gmail.py"],
+      "cwd": "/mnt/c/h-0/bronze/AI_Employee_Vault"
+    }
+  }
+}
