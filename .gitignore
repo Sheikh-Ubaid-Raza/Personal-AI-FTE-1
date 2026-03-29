@@ -3,6 +3,13 @@
 credentials.json
 token.json
 
+# Browser session directories (contain auth cookies)
+.linkedin_session/
+
+# Runtime state (ephemeral)
+Logs/ralph_state.json
+Logs/*.png
+
 # Python
 __pycache__/
 *.pyc
